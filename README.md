@@ -1,1 +1,1 @@
-Build a classic Stone, Paper, Scissors game using HTML and CSS. This project offers a fun way to enhance your web development skills by creating an interactive game where users can play against the computer.
+Build a classic Stone, Paper, Scissors game using HTML, CSS and javascript. This project offers a fun way to enhance your web development skills by creating an interactive game where users can play against the computer.
